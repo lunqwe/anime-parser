@@ -6,8 +6,8 @@ Anime Webscraper is a Python-based project that implements a parser to extract a
 
 ## Features
 
-- Extracts anime information including:
-  - Title (in original language)
+- Extracts anime information (in sites basic language) including:
+  - Title 
   - Description
   - Cover image URL and additional media like screenshots etc.
   - Additional metadata (release year, genre, etc.)
