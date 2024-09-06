@@ -120,7 +120,7 @@ class DataScrapper:
     
     def parse_anime_links(self):
         links_list = []
-        for page_num in range(1, 5):
+        for page_num in range(1, 1087):
             link = f'https://shikimori.one/animes/page/{page_num}'
             self.driver.get(link)
             self.scroll_to_bottom()
@@ -132,4 +132,3 @@ class DataScrapper:
         return links_list
 
             
-    
