@@ -17,7 +17,7 @@ Anime Webscraper is a Python-based project that implements a parser to extract a
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/anime-webscraper.git
+git clone https://github.com/lunqwe/anime-webscraper.git
 cd anime-webscraper
 pip install -r requirements.txt
 ```
